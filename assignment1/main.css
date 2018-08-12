@@ -1,20 +1,12 @@
 body{
     margin:0;  
     font-family: arial;  
-   
+    
 }
-.container{
-    position:absolute;
-    left:0;
-    top:100;
-    width:100%;
-    height:100%;    
+header{
+    background:yellowgreen;
 }
-.hero{
-    height:100%;
-    width:100%;
-    background-image: url(https://wallpapertag.com/wallpaper/middle/2/7/c/802111-cool-white-wallpaper-1920x1200-tablet.jpg);
-}
+
 h1,h2{
    color:#0B0080 
    }
